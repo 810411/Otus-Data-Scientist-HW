@@ -1,0 +1,10 @@
+openweathermap.org - данные о погоде, API
+market.yandex.ru - статистика по ценам товаров, API
+cian.ru - статистика по недвижимости, парсинг
+facebook.com - данные о пользователях, API
+vk.com - данные о пользователях, API
+instagram.com - статистика по геометкам фотографий, API
+openstreetmap.org - геоданные, API
+steampowered.com - статистика по играм, API
+twitter - статистика по твитам, API
+apple.com - статистика по ценам в разных странах, парсинг
